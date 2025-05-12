@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,swift,cs,java,html,css,js,figma,github,mysql,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,cs,java,html,css,js,figma,github,mysql,python,vscode" />
   </a>
 </p>
