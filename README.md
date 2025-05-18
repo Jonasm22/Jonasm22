@@ -27,8 +27,3 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,cs,java,html,css,js,figma,github,mysql,python,vscode" />
   </a>
 </p>
-
-<!-- visit counter -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jonasm22.Jonasm22" alt="Visitas" />
-</p>
